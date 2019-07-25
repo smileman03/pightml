@@ -125,8 +125,8 @@ background-color:#007bff!important
 	
 	font-family: Roboto;
 }
-.div_dropdown{top:80%; left:60%;position: absolute;}
-.div_btn{top:80%; left:80%;position: absolute;}
+.div_dropdown{top:80%; left:50%;position: absolute;}
+.div_btn{top:80%; left:72%;position: absolute;}
 .info_field{position: absolute; top:20%;left:5%; height:70%;width:90%;}
 .p_valinfo{font-family: Roboto;color:#464545;font-size:14}
 .p_nameinfo{font-family: Roboto;font-size:16}
